@@ -2,17 +2,17 @@
 permalink:        /post/:title.html
 
 # Setup
-url:              https://rhl7168.github.io
-img_url:          https://rhl7168.github.io/img.github.io/image
+url:              https://lyj7168.github.io
+img_url:          https://lyj7168.github.io/img.github.io/image
 
 # Set to '' in case of hosting on `https://<your-github-name>.github.io`
 baseurl:          ''
 
-title:            '一粒小小小精灵'
+title:            '流沙'
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:      >
-  [学无止境尚需专注弥坚](https://rhl7168.github.io/code/)
+  [天道酬勤人道酬诚](https://lyj7168.github.io/code/)
 
 # Google Analytics tracking ID
 # analytics:        'UA-32028925-2'
@@ -22,16 +22,15 @@ image:            /public/images/hedin.jpg
 color:            '#dc322f'
 
 author:
-  name:           '一粒小小小精灵'
-  email:          l_renhailing@163.com
-  github:         rhl7168
+  name:           '流沙'
+  email:          R_liyingjie@163.com
+  github:         lyj7168
   photo:          /public/images/pic.png
 
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:          |
-    我是一粒小小小精灵，热爱工作，热爱编程的女程序媛，永远向着未来，向着光芒努力！
-
+    聚散流沙，聚沙成塔，散沙成漠！
 
 compress_html:
   clippings:      all
